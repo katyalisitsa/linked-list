@@ -41,7 +41,7 @@ public class LinkedList {
         if(isEmpty()) {
             throw new NoSuchElementException();
         }
-            System.out.println("adding an item from the last");
+            System.out.println("deleting an item from the last");
         if(first==last){
             first=last=null;
         }else{
