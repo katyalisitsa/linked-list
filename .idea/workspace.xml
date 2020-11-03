@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bd6c8cb-52a4-4a38-b0ae-66605a5ad9f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/linked-list-init/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-init/src/main/java/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-init/src/main/java/LinkedListRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jkwY9CMLesWEA9cTkNnI2Pyusj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bd6c8cb-52a4-4a38-b0ae-66605a5ad9f9" name="Default Changelist" comment="" />
+      <created>1604361441677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604361441677</updated>
+      <workItem from="1604361443160" duration="2270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604362827656">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1604362827656" />
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1604362978768">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814@0.23.1440.814" timestamp="1604362978768" />
+    <state x="350" y="92" key="new project wizard" timestamp="1604362639798">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="350" y="92" key="new project wizard/0.23.1440.814@0.23.1440.814" timestamp="1604362639798" />
+  </component>
+</project>
