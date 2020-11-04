@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd6c8cb-52a4-4a38-b0ae-66605a5ad9f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/linked-list-lab/linked-list-lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-lab/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-lab/src/main/java/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked-list-lab/src/main/java/LinkedListRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked-list-init/src/main/java/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/linked-list-init/src/main/java/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked-list-init/src/main/java/LinkedListRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/linked-list-init/src/main/java/LinkedListRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +33,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LinkedListRunner (1)">
+    <configuration name="LinkedListRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListRunner" />
+      <module name="linked-list-lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedListRunner" />
       <module name="linked-list-init" />
@@ -42,6 +56,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListRunner (1)" />
         <item itemvalue="Application.LinkedListRunner" />
       </list>
     </recent_temporary>
@@ -56,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604361441677</updated>
-      <workItem from="1604361443160" duration="2624000" />
+      <workItem from="1604361443160" duration="5711000" />
+      <workItem from="1604532799531" duration="166000" />
     </task>
     <servers />
   </component>
@@ -64,33 +80,52 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="821" key="#Project_Structure" timestamp="1604365098906">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="208" y="23" width="1024" height="821" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1604365098906" />
     <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604362827656">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1604362827656" />
-    <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1604362978768">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state x="533" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1604365258930">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="533" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814@0.23.1440.814" timestamp="1604362978768" />
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1604364696639">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="533" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1604365258930" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1604445986106">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604364696639" />
-    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1604364696624">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1604445986106" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604365817706" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1604445986105">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604364696624" />
-    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1604364696613">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1604445986105" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604365817705" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1604445986105">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604364696613" />
-    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1604364696632">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1604445986105" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604365817705" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1604445986106">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604364696632" />
-    <state x="350" y="92" key="new project wizard" timestamp="1604362639798">
-      <screen x="0" y="23" width="1440" height="814" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1604445986106" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604365817705" />
+    <state x="221" y="68" key="SettingsEditor" timestamp="1604445942419">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="221" y="68" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1604445942419" />
+    <state x="350" y="93" key="new project wizard" timestamp="1604365078860">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="350" y="92" key="new project wizard/0.23.1440.814@0.23.1440.814" timestamp="1604362639798" />
+    <state x="350" y="93" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1604365078860" />
+    <state x="385" y="167" width="670" height="672" key="search.everywhere.popup" timestamp="1604445924879">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="385" y="167" width="670" height="672" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1604445924879" />
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1604366656201" />
   </component>
 </project>
